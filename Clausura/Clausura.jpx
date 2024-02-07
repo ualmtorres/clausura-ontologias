@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Proyecto XML de JBuilder-->
+<project>
+  <property category="FastObjects" name="enhanceAutomatic" value="true" />
+  <property category="FastObjects" name="enhancerSwitches" value="-v" />
+  <property category="FastObjects" name="registerAutomatic" value="true" />
+  <property category="FastObjects" name="registrationPolicy" value="update" />
+  <property category="FastObjects" name="registrationSwitches" value="" />
+  <property category="idl" name="ProcessIDL" value="false" />
+  <property category="runtime.0" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner" />
+  <property category="runtime.0" name="application.class" value="GUI.Principal" />
+  <property category="runtime.0" name="appserver.ejbJarsSaved" value="1" />
+  <property category="runtime.0" name="appserver.parameters" value="-jts -jns -jss -jdb" />
+  <property category="runtime.0" name="appserver.servername" value="ejbcontainer" />
+  <property category="runtime.0" name="appserver.vmparameters" value="" />
+  <property category="runtime.0" name="jsprunner.docbase" value="." />
+  <property category="runtime.0" name="jsprunner.jspfile" value="../../../Archivos de programa/JBuilder4/bin" />
+  <property category="sys" name="AuthorLabel" value="@author" />
+  <property category="sys" name="BackupPath" value="bak" />
+  <property category="sys" name="BeansInstantiate" value="false" />
+  <property category="sys" name="BraceStyle" value="0" />
+  <property category="sys" name="CheckStable" value="1" />
+  <property category="sys" name="Company" value="" />
+  <property category="sys" name="CompanyLabel" value="Empresa:" />
+  <property category="sys" name="Copyright" value="Copyright (c) 2001" />
+  <property category="sys" name="CopyrightLabel" value="Copyright:" />
+  <property category="sys" name="DefaultPackage" value="GUI" />
+  <property category="sys" name="Description" value="" />
+  <property category="sys" name="DescriptionLabel" value="Descripcion:" />
+  <property category="sys" name="DocPath" value="doc" />
+  <property category="sys" name="EventMatch" value="false" />
+  <property category="sys" name="EventStyle" value="1" />
+  <property category="sys" name="ExcludeClassEnabled" value="0" />
+  <property category="sys" name="InstanceVisibility" value="0" />
+  <property category="sys" name="JDK" value="java 1.3.0-C" />
+  <property category="sys" name="LastTag" value="0" />
+  <property category="sys" name="Libraries" value="FastObjects e7-t7 Runtime (JC);JBCL;iText;acrobat" />
+  <property category="sys" name="MakeStable" value="0" />
+  <property category="sys" name="OutPath" value="classes" />
+  <property category="sys" name="SourcePath" value="src" />
+  <property category="sys" name="Title" value="" />
+  <property category="sys" name="TitleLabel" value="T\u00edtulo:" />
+  <property category="sys" name="Version" value="1.0" />
+  <property category="sys" name="VersionLabel" value="@version" />
+  <property category="sys" name="WorkingDirectory" value="." />
+  <property category="sys" name="uidesign.size.GUI.GUIAlgoritmo1" value="424,300" />
+  <property category="sys" name="uidesign.size.GUI.GUIAlgoritmo3" value="584,310" />
+  <property category="sys" name="uidesign.size.GUI.GUIGrafo" value="400,497" />
+  <property category="sys" name="uidesign.size.GUI.GUIPrincipal_AcercaDe" value="400,310" />
+  <node type="Archive" name="Clausura">
+    <property category="archiving" name="archiverClass" value="com.borland.jbuilder.wizard.archive.ApplicationArchiver" />
+    <property category="archiving" name="libraryStates.1" value="3:FastObjects e7-t7 Runtime (JC)" />
+    <property category="archiving" name="libraryStates.2" value="1:JBCL" />
+    <property category="archiving" name="libraryStates.3" value="1:Data Express" />
+    <property category="archiving" name="libraryStates.4" value="3:iText" />
+    <property category="archiving" name="libraryStates.5" value="3:acrobat" />
+    <property category="archiving" name="manifestMainClass" value="GUI.Principal" />
+    <property category="archiving" name="targetCompressed" value="1" />
+    <property category="archiving" name="targetPath" value="sintitulo2.jar" />
+  </node>
+  <file path="Descripcion.html" />
+  <file path="../ptj.opt" />
+</project>
+
